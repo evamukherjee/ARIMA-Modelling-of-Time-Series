@@ -1,4 +1,4 @@
-# Linear TIme Series Assignment - ARIMA Modelling and Prediction
+# Linear Time Series Assignment - ARIMA Modelling and Prediction
 
 ## Overview
 
