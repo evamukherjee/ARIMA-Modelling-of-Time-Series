@@ -20,3 +20,7 @@ The dataset provides insights into the sector’s production dynamics, reflectin
 7. Hypotheses used to get the joint confidence region 
 8. Graphical Representation for α = 95% 
 9. Prediction Improvement
+
+#### Authors:
+- Eva Mukherjee
+- Maria Joseph
