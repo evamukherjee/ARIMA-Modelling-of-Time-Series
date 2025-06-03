@@ -21,6 +21,6 @@ The dataset provides insights into the sector’s production dynamics, reflectin
 8. Graphical Representation for α = 95% 
 9. Prediction Improvement
 
-#### Authors:
+### Authors:
 - Eva Mukherjee
 - Maria Joseph
